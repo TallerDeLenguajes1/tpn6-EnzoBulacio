@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g7Pe3gGudbtE4er02WDsHEGHcH80pU5pDV0ekFihSBvRzbrNzSMM1R+dtaXufa6sEHwZAX9SfmCdZ4+BAVzy7Q==",
+  "success": true,
+  "projectFilePath": "D:\\taller\\tpn6-EnzoBulacio\\TP6\\TP6\\TP6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enzo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

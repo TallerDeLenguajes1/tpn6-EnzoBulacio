@@ -1,0 +1,13 @@
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.exe
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.deps.json
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.json
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.dev.json
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.dll
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.pdb
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.csprojAssemblyReference.cache
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfoInputs.cache
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfo.cs
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.csproj.CoreCompileInputs.cache
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.dll
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.pdb
+D:\taller\tpn6-EnzoBulacio\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.genruntimeconfig.cache
