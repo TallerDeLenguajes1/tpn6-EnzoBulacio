@@ -6,39 +6,33 @@ namespace TP6_3
     {
         static void Main(string[] args)
         {
-            double num=0;
-            int i;
+            double num = 0;
+            int num_1, num_2, maximo, minimo;
             int cuadrado = 2;
-            do
-            {
-                Console.WriteLine("elija la opcion" + "\n 1-valor absoluto" + "\n 2-cuadrado"+ "\n 3-raiz cuadrada" + "\n 4-seno" + "\n 5-coseno");
-                i=Convert.ToInt16(Console.ReadLine());
-                Console.WriteLine("Ingrese un numero");
-                num = double.Parse(Console.ReadLine());
-                switch (i)
-                {
-                    case 1:
-                        num = Math.Abs(num);
-                        Console.WriteLine("el resultado del valor absoluto: " + num);
-                        break;
-                    case 2:
-                        num = Math.Pow(num,cuadrado);
-                        Console.WriteLine("el resultado del cuadrado: " + num);
-                        break;
-                    case 3:
-                        num = Math.Sqrt(num);
-                        Console.WriteLine("el resultado la raiz cuadrada: " + num);
-                        break;
-                    case 4:
-                        num = Math.Sin(num);
-                        Console.WriteLine("el resultado seno: " + num);
-                        break;
-                    case 5:
-                        num = Math.Cos(num);
-                        Console.WriteLine("el resultado coseno: " + num);
-                        break;
-                }
-            }while(i == 0);
+            //ingresar el numero
+            Console.WriteLine("Ingrese un numero");
+            num = double.Parse(Console.ReadLine());
+            //valor absoluto, cuadrado, raiz cuadrada, seno, coseno
+            num = Math.Abs(num);
+            Console.WriteLine("el resultado del valor absoluto: " + num);
+            num = Math.Pow(num,cuadrado);
+            Console.WriteLine("el resultado del cuadrado: " + num);
+            num = Math.Sqrt(num);
+            Console.WriteLine("el resultado la raiz cuadrada: " + num);
+            num = Math.Sin(num);
+            Console.WriteLine("el resultado seno: " + num);
+            num = Math.Cos(num);
+            Console.WriteLine("el resultado coseno: " + num);
+            Console.WriteLine("\ningrese un numero");
+            num_1= int.Parse(Console.ReadLine());
+            Console.WriteLine("\ningrese otro numero");
+            num_2 =int.Parse(Console.ReadLine());
+            maximo = Math.Max(num_1,num_2);
+            Console.WriteLine("el numero mayor es: " + maximo);
+            minimo = Math.Min(num_1, num_2);
+            Console.WriteLine("el numero menor es: " + minimo);
+
+
         }
     }
 }
